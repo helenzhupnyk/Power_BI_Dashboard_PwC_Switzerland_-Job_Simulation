@@ -15,34 +15,16 @@ Understanding call center efficiency and customer satisfaction by analyzing:
 ![image](https://github.com/user-attachments/assets/3ac19ffe-0c75-47a1-a7f7-1b74dd52dbb0)
 
 ## Insights from the Call Center Trends Dashboard:
-- **Total Calls: 5000**
-
-The call center handled a significant volume of calls, indicating a busy environment that requires efficient resource management.
-- **Answer Rate: 81.08%**
-
-A relatively high answer rate suggests good responsiveness, but there is room for improvement to minimize abandoned calls.
-- **Average Speed of Answer: 54.75 seconds**
-
-The average time to answer a call is nearly a minute, which may affect customer satisfaction. Reducing this could enhance service quality.
-- **Average Call Duration: 0.41 minutes (approximately 25 seconds)**
-
-Calls are relatively short, which may indicate quick resolutions or rushed interactions that might affect customer satisfaction.
-- **Resolution Rate: 72.92%**
-
-While a majority of calls are resolved, nearly 27% remain unresolved, suggesting the need for better issue resolution strategies.
-- **Calls Per Day Trend**
-
-Fluctuations in call volume suggest peak times that could be used to optimize agent staffing.
-- **Customer Satisfaction Score: 2.8/5**
-
-A low satisfaction score indicates that customers may be experiencing issues with service quality, wait times, or resolution effectiveness.
-- **Calls Handled by Agent**
-
-Some agents handle significantly more calls than others, highlighting potential workload imbalances or differences in efficiency.
-
-**Filtering Options**
-
-Filters for month, agent, topic, and resolution status allow deeper insights into specific trends and performance metrics.
+- **Total Calls: 5000** The call center handled a significant volume of calls, indicating a busy environment that requires efficient resource management.
+- **Answer Rate: 81.08%** A relatively high answer rate suggests good responsiveness, but there is room for improvement to minimize abandoned calls.
+- **Average Speed of Answer: 54.75 seconds** The average time to answer a call is nearly a minute, which may affect customer satisfaction. Reducing this could enhance service quality.
+- **Average Call Duration: 0.41 minutes (approximately 25 seconds)** Calls are relatively short, which may indicate quick resolutions or rushed interactions that might affect customer satisfaction.
+- **Resolution Rate: 72.92%** While a majority of calls are resolved, nearly 27% remain unresolved, suggesting the need for better issue resolution strategies.
+- **Calls Per Day Trend** Fluctuations in call volume suggest peak times that could be used to optimize agent staffing.
+- **Customer Satisfaction Score: 2.8/5** A low satisfaction score indicates that customers may be experiencing issues with service quality, wait times, or resolution effectiveness.
+- **Calls Handled by Agent** Some agents handle significantly more calls than others, highlighting potential workload imbalances or differences in efficiency.
+- **Filtering Options** Filters for month, agent, topic, and resolution status allow deeper insights into specific trends and performance metrics.
+- 
 ### Recommendations:
 - Improving resolution rates and satisfaction scores should be a priority.
 - Optimizing staffing during peak hours could help manage call volumes more effectively.
