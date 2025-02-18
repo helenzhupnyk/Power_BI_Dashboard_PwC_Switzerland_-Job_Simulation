@@ -6,7 +6,7 @@ This project is part of the PwC Switzerland Power BI Virtual Case Experience. It
 ## Project Scope
 The goal of this project is to visualize key performance indicators (KPIs) to assist decision-making in different business areas of a telecom company. The analysis is divided into three main tasks:
 
-### Customer Service Analysis
+## Customer Service Analysis
 Understanding call center efficiency and customer satisfaction by analyzing:
 - **Overall Customer Satisfaction** – Customer feedback ratings.
 - **Call Center Performance** – Calls answered vs. abandoned.
@@ -43,12 +43,12 @@ Some agents handle significantly more calls than others, highlighting potential 
 **Filtering Options**
 
 Filters for month, agent, topic, and resolution status allow deeper insights into specific trends and performance metrics.
-## Key Takeaways:
+### Recommendations:
 - Improving resolution rates and satisfaction scores should be a priority.
 - Optimizing staffing during peak hours could help manage call volumes more effectively.
 - Analyzing individual agent performance might uncover training or resource needs to enhance efficiency.
 
-### Customer Retention Analysis
+## Customer Retention Analysis
 Understanding customer churn patterns and identifying opportunities for proactive retention strategies.
 
 - **Customer Churn Rate:** The churn rate stands at 26.54%, indicating a significant portion of customers are leaving. This represents a revenue loss of $2.86M.
@@ -61,16 +61,14 @@ Understanding customer churn patterns and identifying opportunities for proactiv
 
 ![image](https://github.com/user-attachments/assets/a3dfbbb9-8eb0-48eb-8a4f-43876216c01e)
 
-**Recommendations:**
+### Recommendations:
 - Implement personalized retention strategies for high-risk groups, such as fiber optic users and electronic check payers.
 - Encourage long-term contracts through discounts or loyalty incentives to improve retention.
 - Enhance onboarding and support for new customers to reduce early-stage churn.
 - Investigate service quality issues for fiber optic users to improve satisfaction and lower churn rates.
 
-### Diversity & Inclusion Analysis
+## Diversity & Inclusion Analysis
 
-- **Gender Representation** – Number of men vs. women in leadership roles.
-Diversity and Inclusion Analysis
 Assessing gender diversity in hiring, promotions, and job levels to identify areas for improvement in workplace inclusion.
 
 - **Hiring Gender Distribution:** The company maintains a balanced hiring ratio, with 48.48% men and 51.52% women hired, indicating an effort toward gender diversity.
@@ -84,9 +82,9 @@ Assessing gender diversity in hiring, promotions, and job levels to identify are
 - Operations: 59% female, 41% male
 - Sales & Marketing: 61% male, 39% female
 - Finance and Strategy have a near equal gender split, but imbalances in other areas highlight recruitment gaps.
+![image](https://github.com/user-attachments/assets/e5566ee8-b827-48b2-973b-4bfd17732809)
 
-
-**Recommendations:**
+### Recommendations:
 
 - Implement mentorship and leadership programs to increase female representation in senior roles.
 - Encourage equitable promotion opportunities to close the gender gap in career growth.
