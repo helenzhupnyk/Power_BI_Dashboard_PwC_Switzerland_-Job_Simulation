@@ -17,11 +17,11 @@ Diversity & Inclusion Analysis – Evaluating gender balance and promotion trend
 
 Tools Used
 
-Power BI: For data visualization and dashboard creation.
+Power BI – Data visualization and dashboard creation.
 
-Power Query: For data transformation and modeling.
+Power Query – Data transformation and modeling.
 
-DAX (Data Analysis Expressions): For advanced calculations and measures.
+DAX (Data Analysis Expressions) – Advanced calculations and measures.
 
 Task Details
 
